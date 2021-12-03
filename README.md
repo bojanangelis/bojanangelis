@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**bojanangelis/bojanangelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Energetic full stack developer dedicated to interactive websites, continuous education and self-improvement. Driven by unique experience in order to stay inspired and motivated.✨
 
-Here are some ideas to get you started:
+🌱 My skillsets include languages like JavaScript, Java, Python, GraphQL, DotNET, NodeJS, Firebase together with frameworks like ReactJS, NextJS, VueJS TailwindCSS, React Native, Java Spring. I thrive in hybrid roles where I can combine diverse perspectives in the problem-solving process & utilize critical thinking to deliver meaningful work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 My primary focus is on building Full Stack Web Applications.
+
+⚡ I love process optimization. I am inspired by growth in people, companies, relations and businesses: I admire active open-mindedness, integrity, science curiosity, great team work & futuristic attitude. I like to work with friendly smart people who are coachable, passionate about their work, open to ask tough questions, ready to put collaboration on #1 place while being "hands-on" and genuinely interested to learn how things work in the background.
+
+😄 My life/work philosophy: DO MORE!
+
+📫 Let's talk :)
+- bojanangjeleski at gmail dot com
+- +389 72 210 024
+
