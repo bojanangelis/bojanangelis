@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Bojan Angjeleski
 
 ✨ Energetic full stack developer dedicated to interactive websites, continuous education and self-improvement. Driven by unique experience in order to stay inspired and motivated.✨
 
