@@ -3,7 +3,7 @@
 
 ✨ Energetic full stack developer dedicated to interactive websites, continuous education and self-improvement. Driven by unique experience in order to stay inspired and motivated.✨
 
-🌱 My skillsets include languages like JavaScript, Java, Python, GraphQL, DotNET, NodeJS, Firebase together with frameworks like ReactJS, NextJS, VueJS TailwindCSS, React Native, Java Spring. I thrive in hybrid roles where I can combine diverse perspectives in the problem-solving process & utilize critical thinking to deliver meaningful work.
+🌱 My skillsets include languages like Java, Kotlin, Python, JavaScript, GraphQL, DotNET, C++, C together with frameworks like Angular, ReactJS, NextJS, NodeJS, Firebase, VueJS, TailwindCSS, React Native, Java Spring. I thrive in hybrid roles where I can combine diverse perspectives in the problem-solving process & utilize critical thinking to deliver meaningful work.
 
 🔭 My primary focus is on building Full Stack Web Applications.
 
